@@ -18,7 +18,7 @@
 
 [![OpenNebula Intro](https://opennebula.io/wp-content/uploads/2020/08/Intro_Screencast_small.png)](https://opennebula.io/screencast-overview/)
 
-### Contributing to OpenNebula
+### Contributing to OpenNebula.
 
 - Contribute to [Development](https://github.com/OpenNebula/one/wiki/How-to-Contribute-to-Development).
 - Learn about our [Add-on Catalog](https://github.com/OpenNebula/one/wiki/How-to-participate-in-Add_on-Development).
