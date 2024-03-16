@@ -2,7 +2,7 @@
 
 ## Description
 
-[OpenNebula](http://opennebula.io) is an open source platform delivering a simple but feature-rich and flexible solution to build and manage enterprise clouds for virtualized services, containerized applications and serverless computing.
+[OpenNebula](http://opennebula.io) is an open source platform delivering a simple but feature-rich and flexible solution to build and manage enterprise clouds for virtualized services, containerized applications and serverless computing..
 
 [![OpenNebula Architecture](https://opennebula.io/wp-content/uploads/2020/08/KeyFeatures_small.png)](https://opennebula.io/discover/)
 
