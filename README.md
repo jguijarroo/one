@@ -29,7 +29,7 @@
 
 There are a couple of very easy ways to try out the OpenNebula functionality
 
-- [miniONE](https://github.com/OpenNebula/minione) for infrastructures based on open source hypervisors. (Only a low footprint VM nededed [KVM, Virtualbox, AWS,..])
+- [miniONE](https://github.com/OpenNebula/minione) for infrastructures based on open source hypervisors. (Only a low resources footprint VM is needed [KVM, Virtualbox, AWS,..])
 - [vOneCloud](http://docs.opennebula.org/vonecloud) for VMware based infrastructures.
 
 ## Installation
