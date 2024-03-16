@@ -8,7 +8,7 @@
 
 ### To start using OpenNebula
 
-- Explore OpenNebula’s **key features** [on our website](https://opennebula.io/discover).
+- Explore OpenNebula’s **key features** [on our website](https://opennebula.io/discover)..
 - Have a look at our [introductory datasheet](https://support.opennebula.pro/hc/en-us/articles/360036935791-OpenNebula-Key-Features-Datasheet).
 - Browse our catalog of [screencasts and video-tutorials](https://opennebula.io/screencasts/).
 - Download our [technical white papers](https://opennebula.io/docs-whitepapers/).
